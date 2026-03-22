@@ -1,4 +1,4 @@
-👋 Merhaba, benim adım BARIŞ İÇEN (@BARİSİCENY) ve yaptığım işe tutkusu olan bir Yazılım Geliştiricisiyim. İşbirlikçi çalışmayı seviyorum ve etkili kaliteli çıktılar üretmeye odaklanıyorum.
+👋 Merhaba, benim adım BARIŞ İÇEN (@kodlaphp) ve yaptığım işe tutkusu olan bir Yazılım Geliştiricisiyim. İşbirlikçi çalışmayı seviyorum ve etkili kaliteli çıktılar üretmeye odaklanıyorum.
 
 👀 Full Stack Developer ile ilgileniyorum
 
